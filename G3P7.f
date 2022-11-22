@@ -1,4 +1,4 @@
-* Linked List Program -  Program 7 - Group 3: Gage, Luke, Austin
+* Linked List Program
       program linkedList
       implicit none
 
