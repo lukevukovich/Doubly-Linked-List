@@ -1,0 +1,106 @@
+ Output File:
+ 
+ Node added to linked list
+ 
+ Node added to linked list
+ 
+ Node added to linked list
+ 
+ Node added to linked list
+ 
+ Node added to linked list
+ 
+ Node added to linked list
+ 
+ Node added to linked list
+ 
+ Node added to linked list
+ 
+ Node added to linked list
+ 
+ Node added to linked list
+ 
+ Data entry complete - Linked list created with 10 nodes
+ 
+ Start Node - Name: Jake       - Loaded Count:  -6
+ Node  1 - Name: Jake       - Count:  -6
+ Node  2 - Name: Fred       - Count:   6
+ Node  3 - Name: Ted        - Count:  -6
+ Node  4 - Name: Sue        - Count:   2
+ Node  5 - Name: Sally      - Count:   4
+ Node  6 - Name: Tim        - Count:  -8
+ Node  7 - Name: Jill       - Count:  -5
+ Node  8 - Name: Scott      - Count:   7
+ Node  9 - Name: Larry      - Count:   3
+ Node 10 - Name: Bert       - Count:  -8
+ Node Removed - Name: Sally      - Count:   4
+ 
+ Start Node - Name: Tim        - Loaded Count:   4
+ Node  1 - Name: Jake       - Count:  -6
+ Node  2 - Name: Fred       - Count:   6
+ Node  3 - Name: Ted        - Count:  -6
+ Node  4 - Name: Sue        - Count:   2
+ Node  5 - Name: Tim        - Count:  -8
+ Node  6 - Name: Jill       - Count:  -5
+ Node  7 - Name: Scott      - Count:   7
+ Node  8 - Name: Larry      - Count:   3
+ Node  9 - Name: Bert       - Count:  -8
+ Node Removed - Name: Bert       - Count:  -8
+ 
+ Start Node - Name: Larry      - Loaded Count:  -8
+ Node  1 - Name: Jake       - Count:  -6
+ Node  2 - Name: Fred       - Count:   6
+ Node  3 - Name: Ted        - Count:  -6
+ Node  4 - Name: Sue        - Count:   2
+ Node  5 - Name: Tim        - Count:  -8
+ Node  6 - Name: Jill       - Count:  -5
+ Node  7 - Name: Scott      - Count:   7
+ Node  8 - Name: Larry      - Count:   3
+ Node Removed - Name: Larry      - Count:   3
+ 
+ Start Node - Name: Jake       - Loaded Count:   3
+ Node  1 - Name: Jake       - Count:  -6
+ Node  2 - Name: Fred       - Count:   6
+ Node  3 - Name: Ted        - Count:  -6
+ Node  4 - Name: Sue        - Count:   2
+ Node  5 - Name: Tim        - Count:  -8
+ Node  6 - Name: Jill       - Count:  -5
+ Node  7 - Name: Scott      - Count:   7
+ Node Removed - Name: Sue        - Count:   2
+ 
+ Start Node - Name: Tim        - Loaded Count:   2
+ Node  1 - Name: Jake       - Count:  -6
+ Node  2 - Name: Fred       - Count:   6
+ Node  3 - Name: Ted        - Count:  -6
+ Node  4 - Name: Tim        - Count:  -8
+ Node  5 - Name: Jill       - Count:  -5
+ Node  6 - Name: Scott      - Count:   7
+ Node Removed - Name: Scott      - Count:   7
+ 
+ Start Node - Name: Jake       - Loaded Count:   7
+ Node  1 - Name: Jake       - Count:  -6
+ Node  2 - Name: Fred       - Count:   6
+ Node  3 - Name: Ted        - Count:  -6
+ Node  4 - Name: Tim        - Count:  -8
+ Node  5 - Name: Jill       - Count:  -5
+ Node Removed - Name: Ted        - Count:  -6
+ 
+ Start Node - Name: Fred       - Loaded Count:  -6
+ Node  1 - Name: Jake       - Count:  -6
+ Node  2 - Name: Fred       - Count:   6
+ Node  3 - Name: Tim        - Count:  -8
+ Node  4 - Name: Jill       - Count:  -5
+ Node Removed - Name: Jill       - Count:  -5
+ 
+ Start Node - Name: Tim        - Loaded Count:  -5
+ Node  1 - Name: Jake       - Count:  -6
+ Node  2 - Name: Fred       - Count:   6
+ Node  3 - Name: Tim        - Count:  -8
+ Node Removed - Name: Jake       - Count:  -6
+ 
+ Start Node - Name: Tim        - Loaded Count:  -6
+ Node  1 - Name: Fred       - Count:   6
+ Node  2 - Name: Tim        - Count:  -8
+ Node Removed - Name: Tim        - Count:  -8
+ 
+ Final Node - Name: Fred       - Count:   6
